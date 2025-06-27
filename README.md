@@ -1,4 +1,6 @@
 
+This project was created as part of a 24-hour application challenge and is for demonstration purposes only.
+
 # PV Forecast – Data Science Challenge (neoom, 2025)
 
 This repository contains a small end-to-end solution to forecast photovoltaic production for a given timestamp using a scikit-learn model, served via FastAPI.
